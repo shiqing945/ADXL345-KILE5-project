@@ -1,0 +1,18 @@
+# 忽略系统及无关文件/目录  
+.codeverse/  
+.gitconfig  
+.lesshst  
+.marscode/  
+.trae  
+.viminfo  
+.vscode/  
+AppData/  
+Autodesk/  
+Contacts/  
+# 其他无关文件，按实际路径逐行添加  
+*.pdf
+*.zip  
+*.lnk  
+*.doc
+*.~
+*.tmp
