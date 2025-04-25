@@ -1,1 +1,0 @@
-# ADXL345-KILE5-project
